@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("AditTolonginDit")
 st.write("stop judi, judi membuat mu rugi 🔥.")
-st.image("Screenshot_20250520_165832.jpg", width=200) 
+st.image("Screenshot_20250520_165832.jpg", width=2000) 
 
 st.title("Aplikasi Radeung Bisa Berhitung") 
 st.header("Radeung Bisa Ngitung, Coba Aja") 
